@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,loan_amount,payment_amount,payment_due_date,payment_received_date
+1,Ana,Silva,18500.0,550,2026-01-15,2026-01-15
+2,Bruno,Costa,42000.0,430,2026-01-02,2025-12-05
+3,Carla,Almeida,12750.0,1000,2026-01-02,2026-01-03
+4,Diego,Santos,9800.0,400,2026-01-15,2025-12-18
+5,Elisa,Ribeiro,25600.0,1200,2026-01-15,2026-01-19
